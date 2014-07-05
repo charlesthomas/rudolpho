@@ -1,0 +1,5 @@
+notes_path='/path/to/todo/dir/'
+pushover_key_path='/path/to/pushover/key/file.txt'
+pushover_app_key=
+pushover_user_key=
+date_format=
